@@ -1,0 +1,67 @@
+{
+  "students": {},
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is 2 + 2?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": "4",
+      "points": 5
+    },
+    {
+      "id": 2,
+      "question": "Capital of France?",
+      "options": [
+        "London",
+        "Berlin",
+        "Paris",
+        "Madrid"
+      ],
+      "correctAnswer": "Paris",
+      "points": 5
+    },
+    {
+      "id": 3,
+      "question": "What is the largest planet?",
+      "options": [
+        "Earth",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correctAnswer": "Jupiter",
+      "points": 5
+    },
+    {
+      "id": 4,
+      "question": "2 * 3 = ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": "6",
+      "points": 5
+    },
+    {
+      "id": 5,
+      "question": "What is H2O?",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Water",
+        "Salt"
+      ],
+      "correctAnswer": "Water",
+      "points": 5
+    }
+  ],
+  "totalQuestions": 5,
+  "maxMarks": 25
+}
